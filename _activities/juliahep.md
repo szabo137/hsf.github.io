@@ -10,10 +10,10 @@ with the aim of improving the sharing of knowledge and expertise, as well as uni
 
 ## Conveners
 
-- Tamás Gál (Erlangen Centre for Astroparticle Physics, Erlangen-Nurenberg, Germany)
 - Alexander Moreno (Universidad Antonio Nariño, Ibagué, Colombia)
 - Uwe Hernandez Acosta (Center for Advanced Systems Understanding, Görlitz, Germany)
 - Pere Mato (CERN, Switzerland)
+- Jerry Ling (Harvard University, Cambridge (MA), United States) 
 
 All coordinators can be reached at <hsf-juliahep-organisation@googlegroups.com>.
 
